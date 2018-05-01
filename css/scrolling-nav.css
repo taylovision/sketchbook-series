@@ -23,5 +23,6 @@ section {
     display: block;
     padding: .75rem 1.25rem;
     margin-bottom: -1px;
+	background:none !important;
     border: 1px solid rgba(255,255,255,.125);
 }
