@@ -17,3 +17,11 @@ header {
 section {
   padding: 150px 0;
 }
+
+.list-group-item {
+	position: relative;
+    display: block;
+    padding: .75rem 1.25rem;
+    margin-bottom: -1px;
+    border: 1px solid rgba(255,255,255,.125);
+}
