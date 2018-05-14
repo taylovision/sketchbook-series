@@ -6,6 +6,10 @@
 
 header {
   padding: 154px 0 100px;
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
 
 @media (min-width: 992px) {
